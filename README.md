@@ -4,7 +4,7 @@
 <br>
 <br>
  
-An *odinary*, self taught Developer at home.
+An *odinary*, Developer at home.
 
 <br>
 <br>
