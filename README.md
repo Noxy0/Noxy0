@@ -24,3 +24,8 @@ An *odinary*, self taught Developer at home.
 <br>
 <br>
 <br>
+
+**Software**
+<br>
+- Visiual Studio Code ~ for coding
+- Figma ~ for designing UI/UX
