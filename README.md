@@ -29,3 +29,8 @@ An *odinary*, Developer at home.
 <br>
 - Visiual Studio Code ~ for coding
 - Figma ~ for designing UI/UX
+
+
+**My website:**
+<br>
+noxy0.com
