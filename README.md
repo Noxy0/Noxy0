@@ -14,8 +14,8 @@ An *odinary*, Developer at home.
 
 **Languages**
 <br>
-<br>
 HTML, CSS, Javascript, C#, Python, Ruby and Lua.
+<br>
 <br>
  
 **Software**
