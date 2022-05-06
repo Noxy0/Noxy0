@@ -13,6 +13,7 @@ An *odinary*, Developer at home.
 <br>
 
 **Languages and tools**
+<br>
 HTML, CSS, Javascript, C#, Python, Ruby and Lua -- Vue, Nuxt.js, Ruby on rails and bootstrap 
  
 **Software**
