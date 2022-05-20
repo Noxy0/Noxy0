@@ -25,4 +25,3 @@ HTML, CSS, Javascript, C#, Python, Ruby and Lua.
 
 **My website:**
 <br>
-noxy0.com
